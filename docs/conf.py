@@ -1,4 +1,4 @@
-conf.pyproject = 'Hitman Pro'
+project = 'Hitman Pro'
 author = 'Your Name'
 release = '1.0'
 
